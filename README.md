@@ -1,4 +1,4 @@
-
+![logo](https://github.com/bezzavarapupaul/bezzavarapupaul/blob/main/Software%20developer.png)
 <h1 align="center">Hi 👋, I'm Paul Bezzavarapu</h1>
 <h3 align="center">A Final Year Computer science Student ,Passionate towards Software Development</h3>
 
